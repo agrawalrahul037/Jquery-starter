@@ -4,7 +4,7 @@
 
 | No. | Questions |
 | --- | --------- |
-|   | **Daily Questions Comes in mind** |
-|1  | [dev dependencies vs peer dependencies vs dependencies ?](#dev-dependencies-vs-peer-dependencies-vs-dependencies) |
+|   | **Jquery basics** |
+|1  | [What is JavaScript?](#What-is-JavaScript) |
 
-1. ### dev dependencies vs peer dependencies vs dependencies?
+1. ### What is JavaScript?
