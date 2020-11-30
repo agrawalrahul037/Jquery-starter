@@ -11,11 +11,11 @@
 |4  | [Install jQuery OR import jQuery?](#Install-OR-Import-jQuery) |
 |5  | [The Document Object Model(DOM)](#The-Document-Object-Model(DOM)) |
 |6  | [jQuery Selectors](#jQuery-Selectors) |
-|7  | [What is JavaScript?](#What-is-JavaScript) |
-|8  | [What is JavaScript?](#What-is-JavaScript) |
-|9  | [What is JavaScript?](#What-is-JavaScript) |
-|10 | [What is JavaScript?](#What-is-JavaScript) |
-|11 | [What is JavaScript?](#What-is-JavaScript) |
+|7  | [jQuery Methods](#jQuery-Methods) |
+|8  | [jQuery Events](#jQuery-Events) |
+|9  | [jQuery Effects](#jQuery-Effects) |
+|10 | [jQuery UI](#jQuery-UI) |
+|11 | [Where not to use jQuery?](#Where-not-to-use-jQuery) |
 
 1. ### What is JavaScript?
 
@@ -29,12 +29,12 @@
 
 6. ### jQuery Selectors?
 
-3. ### What is jQuery?
+7. ### jQuery-Methods?
 
-3. ### What is jQuery?
+8. ### jQuery Events?
 
-3. ### What is jQuery?
+9. ### jQuery Effects?
 
-3. ### What is jQuery?
+10. ### jQuery UI?
 
-3. ### What is jQuery?
+11. ### Where not to use jQuery?
