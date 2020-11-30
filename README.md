@@ -50,11 +50,11 @@
 
 
 2. ### What is jQuery and Why use jQuery?
--> JQuery is lightweight 
--> Supported by all the browser
--> Easy to Use
--> large support community
--> Save development time.
+-> JQuery is lightweight  <br>
+-> Supported by all the browser <br>
+-> Easy to Use <br>
+-> large support community <br>
+-> Save development time. <br>
 ```javascript
 <!DOCTYPE html>
 <html>
@@ -82,7 +82,7 @@
 
 </html>
 ```
-# javascript api call
+##### javascript api call
 ```javascript
 function loadDoc() {
   var xhttp;
@@ -102,7 +102,7 @@ function loadDoc() {
   xhttp.send();
 }
 ```
-# jquery api call
+#### jquery api call
 ```javascript
 $.ajax({
     method: "GET",
