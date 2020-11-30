@@ -23,6 +23,33 @@
 -> It's basically a scripting language. <br>
 -> Adding validation at front end.<br>
 -> call any api to fetch data.
+```javascript
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        function changeColor() {
+            document.getElementById("myDiv").style.backgroundColor = 'green';
+        }
+    </script>
+    <style>
+        #myDiv {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="myDiv">My div object</div>
+    <button onclick="changeColor()">click me</button>
+</body>
+
+</html>
+```
+
 
 2. ### Why use jQuery?
 
