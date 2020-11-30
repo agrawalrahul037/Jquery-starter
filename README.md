@@ -19,6 +19,11 @@
 
 1. ### What is JavaScript?
 
+-> To make web pages dynamic we use javascript. 
+-> It's basically a scripting language.
+-> Adding validation at front end.
+-> call any api to fetch data.
+
 2. ### Why use jQuery?
 
 3. ### What is jQuery?
