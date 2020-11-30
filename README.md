@@ -82,7 +82,7 @@
 
 </html>
 ```
-#javascript api call
+# javascript api call
 ```javascript
 function loadDoc() {
   var xhttp;
@@ -102,7 +102,7 @@ function loadDoc() {
   xhttp.send();
 }
 ```
-#jquery api call
+# jquery api call
 ```javascript
 $.ajax({
     method: "GET",
